@@ -1,0 +1,11 @@
+D:\vs2017workspace\NEL\FileService\bin\Debug\netcoreapp2.0\FileService.deps.json
+D:\vs2017workspace\NEL\FileService\bin\Debug\netcoreapp2.0\FileService.runtimeconfig.json
+D:\vs2017workspace\NEL\FileService\bin\Debug\netcoreapp2.0\FileService.runtimeconfig.dev.json
+D:\vs2017workspace\NEL\FileService\bin\Debug\netcoreapp2.0\FileService.dll
+D:\vs2017workspace\NEL\FileService\bin\Debug\netcoreapp2.0\FileService.pdb
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.csprojAssemblyReference.cache
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.csproj.CoreCompileInputs.cache
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.AssemblyInfoInputs.cache
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.AssemblyInfo.cs
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.dll
+D:\vs2017workspace\NEL\FileService\obj\Debug\netcoreapp2.0\FileService.pdb
